@@ -1,0 +1,15 @@
+{
+    "baseURL": "",
+    "echo": {
+        "host": ":6001",
+        "key": ""
+    },
+    "calendly": {
+        "orderConsultationExtended": "https://calendly.com/prodigident/extended-30-min",
+        "orderConsultationShort": "https://calendly.com/prodigident/short-15-min",
+        "consultationShort": "https://calendly.com/prodigident/30min-consultation",
+        "consultationExtended": "https://calendly.com/prodigident/extended-consultation-60-min",
+        "trainingSession": "https://calendly.com/prodigident/traning-session",
+        "trainingAdvanced": "https://calendly.com/prodigident/traning-advanced"
+    }
+}
